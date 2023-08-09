@@ -1,0 +1,96 @@
+body {
+    height: 9   00px;
+    width: 1700px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+.main{
+    height: 210px;
+    width: 400px;
+    float: right;
+    margin-left: 40px;
+    color: #1877f2;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top:20px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.main-description {
+    font-size: 18px;
+    color: #161414;
+    margin-top: -5px;
+    margin-left: -400px; 
+    padding-right: 390px;
+     
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.login-form {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    width: 90%;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    
+}
+
+button {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #3b5998;
+}
+
+.forgot-password {
+    
+    color: #1877f2;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+button {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+#btn2{
+    margin-top: 10px;
+    background-color: rgb(20, 192, 8);
+}
